@@ -4,7 +4,7 @@ Donate link: http://www.1-click-adsense.net
 Tags: adsense,advertise,google
 Requires at least: 2.5
 Tested up to: 3.0.1
-Stable tag: 1.0
+Stable tag: 1.1
 
 1-Click-AdSense automatically inserts optimized Google Adsense Ads into all  of your Blog Pages within seconds. Click and monetize. 
 
